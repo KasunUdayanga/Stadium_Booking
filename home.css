@@ -1,0 +1,45 @@
+/* Reset some default styles and apply basic styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: none;
+    background-color: #dd1da76a;
+}
+
+/* Style the header */
+header {
+    background-color: #48afe2;
+    color: #fff;
+    text-align: center;
+    padding: 10px 10px;
+}
+
+/* Style the navigation menu inside the header */
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+/* Style the footer */
+footer {
+    background-color: #1f2edaa1;
+    color: #fff;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+    margin-top: 538px;
+}
+.head{
+    color: #fff;
+}
