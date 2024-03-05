@@ -6,6 +6,11 @@
 body{
         background-color: #f9f6f2;
 }
+.text-center{
+    color: #009dff;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 .card-img-top{
     border-radius: 50px;
     padding: 20px;
@@ -21,6 +26,8 @@ body{
 .btn-primary{
     border-radius: 50px;
     width: 120px;
+    color: #f9f6f2;
+    font-weight: bold;
 }
 .btn-primary:hover{
     background-color: black;
