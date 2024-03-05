@@ -31,9 +31,5 @@ Welcome to the Stadium Booking Web Page repository! This project aims to provide
 - **User and Booking Management:** Admins can oversee user accounts, manage bookings, and address issues.
 - **Stadium Maintenance:** Add, edit, or remove stadiums from the platform.
 
-## Getting Started
 
-To run the Stadium Booking Web Page locally, follow these steps:
-
-1. **Clone the Repository:**
 
