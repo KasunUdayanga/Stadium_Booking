@@ -110,6 +110,7 @@ section {
   width: 45%;
   padding-bottom: 20px;
   padding-top: 20px;
+  border-radius: 10px;
 }
 
 .contact-form h2 {
